@@ -1,9 +1,4 @@
 # docs
-Documentos y Arte del Flisol Venezuela
+Documentos del Flisol Venezuela
 
-Acá encontrará el arte relacionado con el Flisol Venezuela puede tomarlo como base para realizar su propio arte
-y contribuir a mejorarlo, estaremos organizando el repositorio en Branch por años en caso de que aplique, 
-sugerencias son bienvenidas.
-
-
-
+Acá encontrarás los documentos (legales, etc.) relacionados con la organización de los distintos Flisol en Venezuela. Puedes tomarlos como base para realizar su propios documentos y contribuir a mejorar los existentes. El repositorio será organizado en Branchs por años en caso de que se aplique, sugerencias son bienvenidas.
